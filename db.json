@@ -28,21 +28,5 @@
         "id": "5ea622563b74fc7d89bfba6b",
         "nombre": "District Of Columbia"
     },
-    {
-        "id": "5ea62256965fad4807a1e64e",
-        "nombre": "Wisconsin"
-    },
-    {
-        "id": "5ea62256833e0bbbaca96837",
-        "nombre": "Arizona"
-    },
-    {
-        "id": "5ea62256a6a58aa5dcd66310",
-        "nombre": "New Jersey"
-    },
-    {
-        "id": "5ea62256fbd498795e13dadf",
-        "nombre": "Kansas"
-    }
-]
+  ]
 }
