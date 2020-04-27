@@ -1,35 +1,31 @@
 {
-  "crimenes": [
+  "posts": [
     {
-        "id": "5ea62256fb6b9971990ad76b",
-        "nombre": "Delaware"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-        "id": "5ea62256bd476fb6ca92d687",
-        "nombre": "Washington"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-        "id": "5ea6225646bb3b4d3f085c0f",
-        "nombre": "Palau"
-    },
-    {
-        "id": "5ea62256d1c30409d6d1934d",
-        "nombre": "Alabama"
-    },
-    {
-        "id": "5ea62256225b53f53bff672f",
-        "nombre": "North Carolina"
-    },
-    {
-        "id": "5ea6225686388960d3c757f5",
-        "nombre": "Idaho"
-    },
-    {
-        "id": "5ea622563b74fc7d89bfba6b",
-        "nombre": "District Of Columbia"
-    },
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
-  profile: {
-     name: "typecode"
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
