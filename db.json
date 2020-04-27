@@ -1,28 +1,49 @@
 {
-  "posts": [
+  "crimes": [
     {
       "id": 1,
-      "title": "Post 1"
+      "nombre": "Robo"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "nombre": "Violacion"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "Secuestro"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "nombre": "Asesinato"
+    },
+    {
+      "id": 5,
+      "nombre": "Aborto"
+    },
+    {
+      "id": 6,
+      "nombre": "Abuso Sexual"
+    },
+    {
+      "id": 6,
+      "nombre": "Prostitucion"
+    },
+    
+    {
+      "id": 7,
+      "nombre": "Explotacion Sexual"
+    },
+    {
+      "id": 8,
+      "nombre": "Terrorismo"
+    },
+    {
+      "id": 9,
+      "nombre": "Estafa"
+    },
+    {
+      "id": 10,
+      "nombre": "Extorsion"
     }
   ],
   "profile": {
