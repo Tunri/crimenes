@@ -1,163 +1,48 @@
 {
   "crimenes": [
     {
-        "id": "5ea621d481c46a2900a8f80b",
-        "nombre": "Michigan"
-    },
-    {
-        "id": "5ea621d4e1eebca38be98474",
-        "nombre": "Puerto Rico"
-    },
-    {
-        "id": "5ea621d4b433ac93296d2767",
-        "nombre": "Massachusetts"
-    },
-    {
-        "id": "5ea621d4e6b274d929b7482a",
-        "nombre": "Vermont"
-    },
-    {
-        "id": "5ea621d4a176eab03b9c2a59",
-        "nombre": "Rhode Island"
-    },
-    {
-        "id": "5ea621d46d49184e080084b0",
-        "nombre": "Minnesota"
-    },
-    {
-        "id": "5ea621d4972461fce05f645e",
-        "nombre": "New Mexico"
-    },
-    {
-        "id": "5ea621d483fbe6b8d36ffa74",
-        "nombre": "Kentucky"
-    },
-    {
-        "id": "5ea621d418a85673fe7a78b6",
-        "nombre": "Oklahoma"
-    },
-    {
-        "id": "5ea621d449edf47fc8147598",
-        "nombre": "Nevada"
-    },
-    {
-        "id": "5ea621d488e50833948b3099",
-        "nombre": "Hawaii"
-    },
-    {
-        "id": "5ea621d4ffecdd9d13c369d3",
-        "nombre": "Illinois"
-    },
-    {
-        "id": "5ea621d43dcadff3d5c8cad2",
-        "nombre": "Federated States Of Micronesia"
-    },
-    {
-        "id": "5ea621d49b87e8d11b3e41d8",
-        "nombre": "Montana"
-    },
-    {
-        "id": "5ea621d4241a57e78254dc9e",
-        "nombre": "Maryland"
-    },
-    {
-        "id": "5ea621d4f845a1e8dd6bc9c8",
-        "nombre": "Tennessee"
-    },
-    {
-        "id": "5ea621d4a763f9ece35830ec",
-        "nombre": "Alaska"
-    },
-    {
-        "id": "5ea621d4544d6a0d225db866",
-        "nombre": "Mississippi"
-    },
-    {
-        "id": "5ea621d4b94e9ff05ab41f54",
-        "nombre": "Washington"
-    },
-    {
-        "id": "5ea621d482ac3e15d5536a3d",
-        "nombre": "Connecticut"
-    },
-    {
-        "id": "5ea621d4ab663d1913648da1",
-        "nombre": "Idaho"
-    },
-    {
-        "id": "5ea621d403d7296c26982b10",
-        "nombre": "South Carolina"
-    },
-    {
-        "id": "5ea621d43b1cb02e60448fbd",
-        "nombre": "California"
-    },
-    {
-        "id": "5ea621d4b5f850e1b0b6f49e",
-        "nombre": "Kansas"
-    },
-    {
-        "id": "5ea621d4f76db29b68d95fc2",
-        "nombre": "South Dakota"
-    },
-    {
-        "id": "5ea621d46953d7db862ce286",
-        "nombre": "Arkansas"
-    },
-    {
-        "id": "5ea621d4d6ab911044570085",
-        "nombre": "Georgia"
-    },
-    {
-        "id": "5ea621d4edbb8cdff0e51388",
-        "nombre": "American Samoa"
-    },
-    {
-        "id": "5ea621d44abe4d9f656a1f97",
-        "nombre": "Virgin Islands"
-    },
-    {
-        "id": "5ea621d49fd0ce2af1a69e47",
-        "nombre": "Nebraska"
-    },
-    {
-        "id": "5ea621d454c4656290b006e7",
-        "nombre": "Iowa"
-    },
-    {
-        "id": "5ea621d451fb6f8b093608be",
-        "nombre": "Palau"
-    },
-    {
-        "id": "5ea621d4d2064931adabc3ec",
-        "nombre": "New York"
-    },
-    {
-        "id": "5ea621d40b90d8927f87264d",
-        "nombre": "District Of Columbia"
-    },
-    {
-        "id": "5ea621d48cd9617e9ab35ac4",
-        "nombre": "Wyoming"
-    },
-    {
-        "id": "5ea621d4bda48e4b27854462",
-        "nombre": "Louisiana"
-    },
-    {
-        "id": "5ea621d45879102de54b8a55",
-        "nombre": "Maine"
-    },
-    {
-        "id": "5ea621d4802066e6522e9156",
+        "id": "5ea62256fb6b9971990ad76b",
         "nombre": "Delaware"
     },
     {
-        "id": "5ea621d4c765d54fbcb0979b",
-        "nombre": "Guam"
+        "id": "5ea62256bd476fb6ca92d687",
+        "nombre": "Washington"
+    },
+    {
+        "id": "5ea6225646bb3b4d3f085c0f",
+        "nombre": "Palau"
+    },
+    {
+        "id": "5ea62256d1c30409d6d1934d",
+        "nombre": "Alabama"
+    },
+    {
+        "id": "5ea62256225b53f53bff672f",
+        "nombre": "North Carolina"
+    },
+    {
+        "id": "5ea6225686388960d3c757f5",
+        "nombre": "Idaho"
+    },
+    {
+        "id": "5ea622563b74fc7d89bfba6b",
+        "nombre": "District Of Columbia"
+    },
+    {
+        "id": "5ea62256965fad4807a1e64e",
+        "nombre": "Wisconsin"
+    },
+    {
+        "id": "5ea62256833e0bbbaca96837",
+        "nombre": "Arizona"
+    },
+    {
+        "id": "5ea62256a6a58aa5dcd66310",
+        "nombre": "New Jersey"
+    },
+    {
+        "id": "5ea62256fbd498795e13dadf",
+        "nombre": "Kansas"
     }
-],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }
